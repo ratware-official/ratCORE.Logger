@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <Company>ratware</Company>
+    <Authors>Tom V. (ratware)</Authors>
+    <Product>ratCORE.Logger</Product>
+    <Description>Provides a thread-safe, asynchronous logging system for console and file output.</Description>
+    <Copyright>Copyright © 2025 ratware</Copyright>
+    <PackageLicenseExpression>CC-BY-4.0</PackageLicenseExpression>
+    <RepositoryUrl>https://github.com/ratware-official/ratCORE.Logger</RepositoryUrl>
+    <Version>1.0.9433.1133</Version>
+    <FileVersion>1.0.9433.1133</FileVersion>
+  </PropertyGroup>
+
+</Project>
